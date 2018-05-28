@@ -11,6 +11,7 @@ import com.cn.hnust.pojo.User;
 import com.cn.hnust.service.IUserService;
 
 @Controller
+//本操作纯属测试
 @RequestMapping("/user")
 public class UserController {
 	@Resource
