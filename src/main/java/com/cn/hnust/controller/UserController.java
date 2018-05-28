@@ -12,7 +12,7 @@ import com.cn.hnust.service.IUserService;
 
 @Controller
 //本操作纯属测试
-@RequestMapping("/user")
+//@RequestMapping("/user")
 public class UserController {
 	@Resource
 	private IUserService userService;
